@@ -1,0 +1,6 @@
+D:\itstep\System Programming\HomeTask3\HomeTask3\HomeTask3-3\bin\Debug\HomeTask3-3.exe.config
+D:\itstep\System Programming\HomeTask3\HomeTask3\HomeTask3-3\bin\Debug\HomeTask3-3.exe
+D:\itstep\System Programming\HomeTask3\HomeTask3\HomeTask3-3\bin\Debug\HomeTask3-3.pdb
+D:\itstep\System Programming\HomeTask3\HomeTask3\HomeTask3-3\obj\Debug\HomeTask3-3.exe
+D:\itstep\System Programming\HomeTask3\HomeTask3\HomeTask3-3\obj\Debug\HomeTask3-3.pdb
+D:\itstep\System Programming\HomeTask3\HomeTask3\HomeTask3-3\obj\Debug\HomeTask3-3.csprojResolveAssemblyReference.cache

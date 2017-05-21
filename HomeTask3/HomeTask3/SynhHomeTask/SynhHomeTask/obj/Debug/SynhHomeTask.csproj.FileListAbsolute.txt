@@ -1,0 +1,8 @@
+D:\Bednyuk Sergey\System Programming\SynhHomeTask\SynhHomeTask\bin\Debug\SynhHomeTask.exe.config
+D:\Bednyuk Sergey\System Programming\SynhHomeTask\SynhHomeTask\bin\Debug\SynhHomeTask.exe
+D:\Bednyuk Sergey\System Programming\SynhHomeTask\SynhHomeTask\bin\Debug\SynhHomeTask.pdb
+D:\Bednyuk Sergey\System Programming\SynhHomeTask\SynhHomeTask\obj\Debug\SynhHomeTask.exe
+D:\Bednyuk Sergey\System Programming\SynhHomeTask\SynhHomeTask\obj\Debug\SynhHomeTask.pdb
+D:\itstep\System Programming\HomeTask3\HomeTask3\SynhHomeTask\SynhHomeTask\bin\Debug\SynhHomeTask.exe.config
+D:\itstep\System Programming\HomeTask3\HomeTask3\SynhHomeTask\SynhHomeTask\obj\Debug\SynhHomeTask.exe
+D:\itstep\System Programming\HomeTask3\HomeTask3\SynhHomeTask\SynhHomeTask\obj\Debug\SynhHomeTask.pdb

@@ -1,0 +1,5 @@
+D:\itstep\System Programming\HomeTask3\HomeTask3\HomeTask3-1\bin\Debug\HomeTask3-1.exe.config
+D:\itstep\System Programming\HomeTask3\HomeTask3\HomeTask3-1\obj\Debug\HomeTask3-1.exe
+D:\itstep\System Programming\HomeTask3\HomeTask3\HomeTask3-1\obj\Debug\HomeTask3-1.pdb
+D:\itstep\System Programming\HomeTask3\HomeTask3\HomeTask3-1\bin\Debug\HomeTask3-1.exe
+D:\itstep\System Programming\HomeTask3\HomeTask3\HomeTask3-1\bin\Debug\HomeTask3-1.pdb

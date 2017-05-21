@@ -1,0 +1,6 @@
+D:\itstep\System Programming\JastForFan\Thread1\Thread\bin\Debug\Thread.exe.config
+D:\itstep\System Programming\JastForFan\Thread1\Thread\bin\Debug\Thread.exe
+D:\itstep\System Programming\JastForFan\Thread1\Thread\bin\Debug\Thread.pdb
+D:\itstep\System Programming\JastForFan\Thread1\Thread\obj\Debug\Thread.csprojResolveAssemblyReference.cache
+D:\itstep\System Programming\JastForFan\Thread1\Thread\obj\Debug\Thread.exe
+D:\itstep\System Programming\JastForFan\Thread1\Thread\obj\Debug\Thread.pdb
